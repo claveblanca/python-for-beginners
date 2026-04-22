@@ -1,0 +1,1773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.53674,
+          -6.213186
+        ]
+      },
+      "properties": {
+        "id": 84021,
+        "conflict_name": "Papua New Guinea: Bougainville",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 1,
+        "violence_label": "State-based",
+        "date_start": "1990-01-17",
+        "date_end": "1990-01-17",
+        "deaths_best": 7,
+        "deaths_low": 7,
+        "deaths_high": 7,
+        "deaths_a": 3,
+        "deaths_b": 0,
+        "deaths_civilians": 2,
+        "deaths_unknown": 2,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "BRA",
+        "adm_1": "Bougainville province",
+        "adm_2": "Kieta district",
+        "where_description": "Arawa Town (Kuveria Prison, near).",
+        "source_article": "\"Reuters News,1990-01-17,PORT MORESBY, Jan 17, Reuter - Secessionist rebels killed at least seven people...\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.496389,
+          -6.315278
+        ]
+      },
+      "properties": {
+        "id": 84022,
+        "conflict_name": "Papua New Guinea: Bougainville",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 1,
+        "violence_label": "State-based",
+        "date_start": "1990-01-16",
+        "date_end": "1990-01-16",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 1,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "BRA",
+        "adm_1": "Bougainville province",
+        "adm_2": "Kieta district",
+        "where_description": "Panguna township",
+        "source_article": "\"Reuters News,1990-01-17,PORT MORESBY, Jan 17, Reuter - Secessionist rebels killed at least seven people...\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1925,
+          -9.464722
+        ]
+      },
+      "properties": {
+        "id": 84028,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2001-06-26",
+        "date_end": "2001-06-26",
+        "deaths_best": 4,
+        "deaths_low": 4,
+        "deaths_high": 4,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 4,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "National Capital district",
+        "adm_2": null,
+        "where_description": null,
+        "source_article": "\"Reuters News,2001-07-09,UPDATE 1-Papua inquest abandoned after cover-up alleged.\";\"The Australian,2001-07-05,PNG riot `martyrs' mourned.\";\"BBC Monitoring Asia Pacific - Political,2001-07-03,Papua New Guinea - Funeral of students killed in unrest due 4 July.\";\"Townsville Bulletin,2001-07-02,PNG student riot toll rises to four.\";\"Reuters News,2001-07-02,PNG student deaths probe to examine outside forces.\";\"Courier Mail,2001-07-02,PNG student death toll mounts.\";\"Reuters News,2001-06-28,PNG students say will prove police shot protesters.\";\"Reuters News,2001-06-27,PNG capital tense after protest bloodshed.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.984688,
+          -6.722084
+        ]
+      },
+      "properties": {
+        "id": 100252,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "1989-06-01",
+        "date_end": "1989-06-30",
+        "deaths_best": 1,
+        "deaths_low": 0,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 1,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "Morobe province",
+        "adm_2": "Lae district",
+        "where_description": "Lae town",
+        "source_article": "\"Peace and security in the Asia Pacific Region : post-cold war problems and prospects,1992-12-31,Chapter 5. D. Robie, Human Rights Abuses in the Pacific\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.0,
+          -6.0
+        ]
+      },
+      "properties": {
+        "id": 100254,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "1989-08-16",
+        "date_end": "1989-08-16",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 1,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "Bougainville province",
+        "adm_2": null,
+        "where_description": "Bougainville",
+        "source_article": "\"Peace and security in the Asia Pacific Region : post-cold war problems and prospects,1992-12-31,Chapter 5. D. Robie, Human Rights Abuses in the Pacific\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.859444,
+          -6.29
+        ]
+      },
+      "properties": {
+        "id": 100286,
+        "conflict_name": "Akibu - Tonakau",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "1999-02-01",
+        "date_end": "1999-03-02",
+        "deaths_best": 12,
+        "deaths_low": 12,
+        "deaths_high": 12,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 12,
+        "side_a": "Akibu",
+        "side_b": "Tonakau",
+        "adm_1": "Eastern Highlands province",
+        "adm_2": "Kainantu district",
+        "where_description": "Kainantu district",
+        "source_article": "\"BBC Monitoring Asia Pacific - Political,1999-03-03,Papua New Guinea - Grenades, rocket launcher used in tribal clashes.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.859444,
+          -6.29
+        ]
+      },
+      "properties": {
+        "id": 100287,
+        "conflict_name": "Akibu - Tonakau",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "1999-03-03",
+        "date_end": "1999-03-12",
+        "deaths_best": 48,
+        "deaths_low": 48,
+        "deaths_high": 48,
+        "deaths_a": 10,
+        "deaths_b": 10,
+        "deaths_civilians": 0,
+        "deaths_unknown": 28,
+        "side_a": "Akibu",
+        "side_b": "Tonakau",
+        "adm_1": "Eastern Highlands province",
+        "adm_2": "Kainantu district",
+        "where_description": "Kainantu district",
+        "source_article": "\"BBC Monitoring Service: Asia-Pacific,1999-03-13,Death toll rises to 60 in Eastern Highlands tribal fighting.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.859444,
+          -6.29
+        ]
+      },
+      "properties": {
+        "id": 100698,
+        "conflict_name": "Akibu - Tonakau",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2000-03-01",
+        "date_end": "2000-03-28",
+        "deaths_best": 10,
+        "deaths_low": 10,
+        "deaths_high": 10,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 10,
+        "side_a": "Akibu",
+        "side_b": "Tonakau",
+        "adm_1": "Eastern Highlands province",
+        "adm_2": "Kainantu district",
+        "where_description": "Kainatu area",
+        "source_article": "\"BBC Monitoring Service: Asia-Pacific,2000-03-30,\"At least 18 dead\" in recent Highlands clashes.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106796,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2000-01-06",
+        "date_end": "2000-01-14",
+        "deaths_best": 3,
+        "deaths_low": 3,
+        "deaths_high": 3,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 3,
+        "deaths_unknown": 0,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": "outskirts of Mendi town",
+        "source_article": "\"BBC Monitoring Asia Pacific - Political,2000-01-17,Papua New Guinea - Police \"out-gunned\" by military arms in tribal fight.\";\"BBC Monitoring Service: Asia-Pacific,2000-01-18,Police \"out-gunned\" in tribal fight.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106821,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2001-12-18",
+        "date_end": "2001-12-18",
+        "deaths_best": 14,
+        "deaths_low": 14,
+        "deaths_high": 15,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 14,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": "outside Mendi town",
+        "source_article": "\"PNG Post courier,2001-12-20,15 more killed in fierce tribal fight.\";\"Reuters News,2001-12-19,Reports say 22 killed in PNG tribal clashes.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106823,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2001-12-15",
+        "date_end": "2001-12-20",
+        "deaths_best": 8,
+        "deaths_low": 8,
+        "deaths_high": 8,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 8,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": null,
+        "source_article": "\"PNG Post courier,2001-12-20,15 more killed in fierce tribal fight.\";\"Reuters News,2001-12-19,Reports say 22 killed in PNG tribal clashes.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106828,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2001-12-22",
+        "date_end": "2001-12-22",
+        "deaths_best": 9,
+        "deaths_low": 9,
+        "deaths_high": 9,
+        "deaths_a": 2,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 7,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": "near Mendi town",
+        "source_article": "\"PNG Post courier,2001-12-28,Mendi carnage.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106829,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2001-12-22",
+        "date_end": "2001-12-28",
+        "deaths_best": 5,
+        "deaths_low": 5,
+        "deaths_high": 24,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 5,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": null,
+        "source_article": "\"PNG Post courier,2001-12-28,Mendi carnage.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8562,
+          -6.0625
+        ]
+      },
+      "properties": {
+        "id": 106833,
+        "conflict_name": "Wagia subclan of Takima - Wayai subclan of Takima",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2001-05-22",
+        "date_end": "2001-05-31",
+        "deaths_best": 25,
+        "deaths_low": 25,
+        "deaths_high": 25,
+        "deaths_a": 15,
+        "deaths_b": 10,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Wagia subclan of Takima",
+        "side_b": "Wayai subclan of Takima",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Komo-Magarima district",
+        "where_description": "around the Hides 4 Rigsite near the Komo settlement, Southern Highlands",
+        "source_article": "\"BBC Monitoring Asia Pacific - Political,2001-06-05,Papua New Guinea - Tribal fight in Highlands gas area leaves 25 dead.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106854,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2002-01-25",
+        "date_end": "2002-01-29",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 1,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": "near Mendi",
+        "source_article": "\"PNG Post courier,2002-01-30,Police warning on arms smuggling.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106856,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2002-01-30",
+        "date_end": "2002-01-30",
+        "deaths_best": 6,
+        "deaths_low": 6,
+        "deaths_high": 6,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 6,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": "near Mendi town ( Koen, Wanteda, Mountain Paia and Pongol villages)",
+        "source_article": "\"BBC Monitoring Asia Pacific - Political,2002-01-31,Papua New Guinea - Ten killed in fresh tribal fighting.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.660474,
+          -6.143947
+        ]
+      },
+      "properties": {
+        "id": 106857,
+        "conflict_name": "Unjamap - Wogia-Tunjup",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2002-02-16",
+        "date_end": "2002-02-20",
+        "deaths_best": 0,
+        "deaths_low": 0,
+        "deaths_high": 3,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Unjamap",
+        "side_b": "Wogia-Tunjup",
+        "adm_1": "Southern Highlands province",
+        "adm_2": "Mendi-Munihu district",
+        "where_description": null,
+        "source_article": "\"PNG Post courier,2002-02-20,Awesa's plea for PM to discipline SHP MPs.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1,
+          -4.633333
+        ]
+      },
+      "properties": {
+        "id": 141243,
+        "conflict_name": "Government of Indonesia - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "1993-10-29",
+        "date_end": "1993-10-29",
+        "deaths_best": 0,
+        "deaths_low": 0,
+        "deaths_high": 13,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Government of Indonesia",
+        "side_b": "Civilians",
+        "adm_1": "Sandaun province",
+        "adm_2": "Telefomin district",
+        "where_description": "Yapsei village in the West Sepik Province, 12 km inside Papua New Guinea",
+        "source_article": "Radio Australia/BBC, 1993-11-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.01,
+          -2.61
+        ]
+      },
+      "properties": {
+        "id": 141876,
+        "conflict_name": "Indonesia: West Papua",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 1,
+        "violence_label": "State-based",
+        "date_start": "1992-05-31",
+        "date_end": "1992-05-31",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 1,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Government of Indonesia",
+        "side_b": "OPM",
+        "adm_1": "Sandaun province",
+        "adm_2": "Vanimo-Green River district",
+        "where_description": "Wutung, Papua New Guinea",
+        "source_article": "BBC 6/2/1992 Indonesian troops cross PNG border to destroy Irian Jaya rebel camp."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.841944,
+          -5.746667
+        ]
+      },
+      "properties": {
+        "id": 291334,
+        "conflict_name": "Oi Kuru - Libe Koi",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2019-07-07",
+        "date_end": "2019-07-08",
+        "deaths_best": 16,
+        "deaths_low": 15,
+        "deaths_high": 18,
+        "deaths_a": 0,
+        "deaths_b": 16,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Oi Kuru",
+        "side_b": "Libe Koi",
+        "adm_1": "Hela province",
+        "adm_2": "Koroba-Kopiago district",
+        "where_description": "in Karida village",
+        "source_article": "\"Agence France Presse,2019-07-10,Dozens killed in Papua New Guinea tribal unrest\";\"Agence France Presse,2019-07-10,24 killed in Papua New Guinea tribal massacres\";\"Reuters News,2019-07-10,UPDATE 2-Gunmen massacre 18, including children, in Papua New Guinea attack\";\"The Guardian,2019-07-15,Papua New Guinea massacre of 30 women and children is 'worst payback killing' in country's history\";\"BBC,2019-07-10,Papua New Guinea: Women and children killed in tribal massacre\";\"Kramer Report,2019-07-14,UPDATE ON KILLINGS IN TARI\";\"Post-Courier,2019-07-10,24 killed in retaliatory attacks in Hela\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.918333,
+          -5.796667
+        ]
+      },
+      "properties": {
+        "id": 291335,
+        "conflict_name": "Oi Kuru - Libe Koi",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2019-07-06",
+        "date_end": "2019-07-07",
+        "deaths_best": 7,
+        "deaths_low": 6,
+        "deaths_high": 7,
+        "deaths_a": 0,
+        "deaths_b": 7,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Oi Kuru",
+        "side_b": "Libe Koi",
+        "adm_1": "Hela province",
+        "adm_2": "Tari Pori district",
+        "where_description": "Peta village, near Munima village",
+        "source_article": "\"BBC,2019-07-10,Papua New Guinea: Women and children killed in tribal massacre\";\"Kramer Report,2019-07-14,UPDATE ON KILLINGS IN TARI\";\"Post-Courier,2019-07-10,24 killed in retaliatory attacks in Hela\";\"The Guardian,2019-07-15,Papua New Guinea massacre of 30 women and children is 'worst payback killing' in country's history\";\"Reuters News,2019-07-10,UPDATE 2-Gunmen massacre 18, including children, in Papua New Guinea attack\";\"Agence France Presse,2019-07-10,24 killed in Papua New Guinea tribal massacres\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.721255,
+          -5.752067
+        ]
+      },
+      "properties": {
+        "id": 331913,
+        "conflict_name": "Oi Kuru - Libe Koi",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2019-06-01",
+        "date_end": "2019-06-30",
+        "deaths_best": 7,
+        "deaths_low": 7,
+        "deaths_high": 7,
+        "deaths_a": 6,
+        "deaths_b": 1,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Oi Kuru",
+        "side_b": "Libe Koi",
+        "adm_1": "Hela province",
+        "adm_2": null,
+        "where_description": null,
+        "source_article": "\"The Guardian,2019-07-15,Papua New Guinea massacre of 30 women and children is 'worst payback killing' in country's history\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.859324,
+          -6.290355
+        ]
+      },
+      "properties": {
+        "id": 391720,
+        "conflict_name": "Agarabi - Tapo",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2021-04-08",
+        "date_end": "2021-04-08",
+        "deaths_best": 12,
+        "deaths_low": 12,
+        "deaths_high": 12,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 12,
+        "side_a": "Agarabi",
+        "side_b": "Tapo",
+        "adm_1": "Eastern Highlands province",
+        "adm_2": "Kainantu district",
+        "where_description": "in Eastern Highlands province - near Kainantu Town in the east of the country",
+        "source_article": "\"Email Conversation with UN personnel, PNG,2021-04-13,Situation Overview\";\"The Guardian,2021-04-12, Police warn of ‘all-out war’ as tribal violence in Papua New Guinea kills 19\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.859324,
+          -6.290355
+        ]
+      },
+      "properties": {
+        "id": 391732,
+        "conflict_name": "Agarabi - Tapo",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2021-04-09",
+        "date_end": "2021-04-09",
+        "deaths_best": 7,
+        "deaths_low": 7,
+        "deaths_high": 7,
+        "deaths_a": 0,
+        "deaths_b": 7,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Agarabi",
+        "side_b": "Tapo",
+        "adm_1": "Eastern Highlands province",
+        "adm_2": "Kainantu district",
+        "where_description": "in Eastern Highlands province - near Kainantu Town in the east of the country",
+        "source_article": "\"The Guardian,2021-04-12, Police warn of ‘all-out war’ as tribal violence in Papua New Guinea kills 19\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.859324,
+          -6.290355
+        ]
+      },
+      "properties": {
+        "id": 391736,
+        "conflict_name": "Agarabi - Tapo",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2021-02-25",
+        "date_end": "2021-03-02",
+        "deaths_best": 7,
+        "deaths_low": 7,
+        "deaths_high": 7,
+        "deaths_a": 7,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Agarabi",
+        "side_b": "Tapo",
+        "adm_1": "Eastern Highlands province",
+        "adm_2": "Kainantu district",
+        "where_description": "Aiyemontano, Bigu, Okipa, Anona  in Kanintu,\nEastern Highlands Province",
+        "source_article": "\"CARE International and Melanesian Institute for Pastoral and Socio-Economic Services,2021-03-03,FIELD SITUATIONAL REPORT DATE/TIME: 0507hrs, 3 March 2021\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.859324,
+          -6.290355
+        ]
+      },
+      "properties": {
+        "id": 426384,
+        "conflict_name": "Agarabi - Tapo",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2021-04-09",
+        "date_end": "2021-04-16",
+        "deaths_best": 12,
+        "deaths_low": 0,
+        "deaths_high": 12,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 12,
+        "side_a": "Agarabi",
+        "side_b": "Tapo",
+        "adm_1": "Eastern Highlands province",
+        "adm_2": "Kainantu district",
+        "where_description": "Kainantu district, in Papua New Guinea’s Eastern Highlands province",
+        "source_article": "\"IHS Global Insight Daily Analysis,2021-04-22,Tribal fighting in PNG’s Kainantu district highlights likelihood of violence involving military-standard ordnance ahead of 2022 elections\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.148872,
+          -5.462018
+        ]
+      },
+      "properties": {
+        "id": 436951,
+        "conflict_name": "Aiyala - Nomali",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-05-06",
+        "date_end": "2022-05-09",
+        "deaths_best": 17,
+        "deaths_low": 17,
+        "deaths_high": 17,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 17,
+        "side_a": "Aiyala",
+        "side_b": "Nomali",
+        "adm_1": "Enga province",
+        "adm_2": "Lagaip-Porgera district",
+        "where_description": "Town of Paiam, Porgera district, Enga Province",
+        "source_article": "\"Post-Courier,2022-05-10,Security forces arrive in Porgera, tension eases\";\"Post-Courier,2022-05-09,Fierce fighting continues with death toll reaching 17\";\"Agence France Presse,2022-05-09,Clan gun battles kill at least four near PNG goldmine\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.148872,
+          -5.462018
+        ]
+      },
+      "properties": {
+        "id": 436954,
+        "conflict_name": "Aiyala - Nomali",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-05-03",
+        "date_end": "2022-05-03",
+        "deaths_best": 0,
+        "deaths_low": 0,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Aiyala",
+        "side_b": "Nomali",
+        "adm_1": "Enga province",
+        "adm_2": "Lagaip-Porgera district",
+        "where_description": null,
+        "source_article": "\"Post-Courier,2022-05-09,Fierce fighting continues with death toll reaching 17\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0909,
+          -5.4641
+        ]
+      },
+      "properties": {
+        "id": 444462,
+        "conflict_name": "Aiyala - Nomali",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-07-20",
+        "date_end": "2022-07-20",
+        "deaths_best": 18,
+        "deaths_low": 18,
+        "deaths_high": 21,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 18,
+        "side_a": "Aiyala",
+        "side_b": "Nomali",
+        "adm_1": "Enga province",
+        "adm_2": "Lagaip-Porgera district",
+        "where_description": "in Porgera town yesterday [...] in Paiam [...] in Upper Porgera Station",
+        "source_article": "\"ForeignAffairs.co.nz,2022-07-21,MIL-Evening Report: 18 people hacked to death in Porgera in under an hour amid PNG elections\";\"ForeignAffairs.co.nz,2022-07-23,MIL-Evening Report: Porgera villagers helpless, unsafe in their homes as ‘warlords’ kill freely\";\"CE NoticiasFinancieras,2022-07-21,Tribal attack leaves 18 dead in northern Papua New Guinea\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0909,
+          -5.4641
+        ]
+      },
+      "properties": {
+        "id": 444472,
+        "conflict_name": "Aiyala - Nomali",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-03-22",
+        "date_end": "2022-07-22",
+        "deaths_best": 31,
+        "deaths_low": 0,
+        "deaths_high": 27,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 31,
+        "side_a": "Aiyala",
+        "side_b": "Nomali",
+        "adm_1": "Enga province",
+        "adm_2": "Lagaip-Porgera district",
+        "where_description": "in Porgera",
+        "source_article": "\"Radio New Zealand News,2022-07-22,Police shocked at wanton violence after 18 killed in PNG\";\"ForeignAffairs.co.nz,2022-07-23,MIL-Evening Report: Porgera villagers helpless, unsafe in their homes as ‘warlords’ kill freely\";\"CE NoticiasFinancieras,2022-07-21,Tribal attack leaves 18 dead in northern Papua New Guinea\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0,
+          -9.5
+        ]
+      },
+      "properties": {
+        "id": 447253,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2022-08-22",
+        "date_end": "2022-08-22",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 1,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": null,
+        "adm_2": null,
+        "where_description": "Papuan waters bordering Australia and Indonesia (from Merauke but on Papuan waters",
+        "source_article": "\"The Australian - Online,2022-08-24,Fatal shooting ‘could become border flashpoint’\";\"LKBN ANTARA,2022-08-25,INDONESIA DEMANDS INVESTIGATION INTO FATAL SHOOTING OF FISHER IN PNG\";\"ForeignAffairs.co.nz,2022-08-29,MIL-Evening Report: Marape pledges investigation into border shooting incident as Jakarta protests\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5,
+          -5.5
+        ]
+      },
+      "properties": {
+        "id": 447400,
+        "conflict_name": "Pasal - Yukap",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "1998-01-01",
+        "date_end": "1998-12-31",
+        "deaths_best": 32,
+        "deaths_low": 32,
+        "deaths_high": 32,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 32,
+        "side_a": "Pasal",
+        "side_b": "Yukap",
+        "adm_1": "Enga province",
+        "adm_2": null,
+        "where_description": null,
+        "source_article": "\"PNG Post courier,2004-11-10,Vaki s plan to bring peace among warring clans\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06237,
+          -8.496248
+        ]
+      },
+      "properties": {
+        "id": 453159,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-10-24",
+        "date_end": "2022-10-24",
+        "deaths_best": 8,
+        "deaths_low": 8,
+        "deaths_high": 8,
+        "deaths_a": 2,
+        "deaths_b": 6,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Kiriwina Island in Papua New Guinea’s Milne Bay Province, Trobriand Islands group.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-25,MIL-Evening Report: 30 killed, many injured in PNG ‘island of love’ tribal massacre\";\"The Guardian,2022-10-25,More than 30 dead in tribal fighting on Papua New Guinea’s ‘island of love’\";\"Crisis Watch,2022-11-01,Papua New Guinea October 2022\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-27,PNG death toll rising, some injuries very serious\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7071,
+          -5.8809
+        ]
+      },
+      "properties": {
+        "id": 453252,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2022-08-06",
+        "date_end": "2022-08-06",
+        "deaths_best": 4,
+        "deaths_low": 4,
+        "deaths_high": 4,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 4,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "Jiwaka province",
+        "adm_2": "Anglimp-South Waghi district",
+        "where_description": "Anglimp-South Waghi electorate in Jiwaka province",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-29,MIL-Evening Report: PNG investigation identifies 8 police suspects in Mt Hagen election violence\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.149894,
+          -5.386848
+        ]
+      },
+      "properties": {
+        "id": 462136,
+        "conflict_name": "Aiyala - Nomali",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-07-18",
+        "date_end": "2022-07-25",
+        "deaths_best": 4,
+        "deaths_low": 4,
+        "deaths_high": 4,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 4,
+        "side_a": "Aiyala",
+        "side_b": "Nomali",
+        "adm_1": "Enga province",
+        "adm_2": "Lagaip-Porgera district",
+        "where_description": "Porgera",
+        "source_article": "\"Radio New Zealand News,2022-07-25,Authorities describe PNG violence as disturbing, inhuman\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.066667,
+          -8.5
+        ]
+      },
+      "properties": {
+        "id": 462138,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-09-01",
+        "date_end": "2022-09-10",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 2,
+        "deaths_a": 1,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Milne Bay’s Kiriwina island.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.148872,
+          -5.462018
+        ]
+      },
+      "properties": {
+        "id": 468018,
+        "conflict_name": "Aiyala - Nomali",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-06-13",
+        "date_end": "2022-06-13",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 1,
+        "side_a": "Aiyala",
+        "side_b": "Nomali",
+        "adm_1": "Enga province",
+        "adm_2": "Lagaip-Porgera district",
+        "where_description": "Paiam town, Pogera-Paiela",
+        "source_article": "\"The National ,2022-06-15,3 dead in Porgera tribal fight \""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47037,
+          -4.52278
+        ]
+      },
+      "properties": {
+        "id": 485735,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2023-07-21",
+        "date_end": "2023-07-21",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 1,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "Madang province",
+        "adm_2": "Bogia district",
+        "where_description": "Korak village \nnear the Bogia Highway",
+        "source_article": "\"Loop PNG,2023-07-31,POLICE CALM KORAK UNREST \";\"Loop PNG,2023-07-28,Korak community want Kanda police to be disbanded\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.822395,
+          -5.562242
+        ]
+      },
+      "properties": {
+        "id": 513401,
+        "conflict_name": "Ambulin, Lungipin, Nenei, Sau, Sau Walep, Yandamau, Yokoend, Yopo - Kaekin, Palinau, Sikin",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2024-02-18",
+        "date_end": "2024-02-18",
+        "deaths_best": 72,
+        "deaths_low": 63,
+        "deaths_high": 72,
+        "deaths_a": 8,
+        "deaths_b": 64,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Ambulin, Lungipin, Nenei, Sau, Sau Walep, Yandamau, Yokoend, Yopo",
+        "side_b": "Kaekin, Palinau, Sikin",
+        "adm_1": "Enga province",
+        "adm_2": "Wapenamanda district",
+        "where_description": "Enga province; Wapenamanda, Akom village",
+        "source_article": "\"ForeignAffairs.co.nz,2024-02-19,MIL-OSI China: At least 53 killed in tribal fighting in Papua New Guinea’s highlands\";\"ForeignAffairs.co.nz,2024-02-20,MIL-Evening Report: Wapenamanda massacre – 64 killed in PNG’s worst tribal fighting\";\"Radio New Zealand News,2024-02-20,Papua New Guinea massacre: 'Pregnant mothers fled for their lives'\";\"Radio New Zealand,2024-02-19,At least 26 killed in massacre in PNG highlands\";\"Agence France Presse,2024-02-20,Papua New Guinea PM says tribal bloodshed was 'domestic terrorism'\";\"ForeignAffairs.co.nz,2024-02-22,MIL-Evening Report: Namah not happy with Marape’s reply over PNG ‘warlords’ question\";\"PNG Post-Courier,2024-02-20,Wapenamanda massacre\";\"ICG Crisis Watch,2024-03-01,Papua New Guinea - FEBRUARY 2024\";\"Radio New Zealand News,2024-03-01,'Chopped him with a bush knife': A PNG massacre killer says 'revenge' is the only way\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.054336,
+          -8.54775
+        ]
+      },
+      "properties": {
+        "id": 526350,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-10-24",
+        "date_end": "2022-10-24",
+        "deaths_best": 6,
+        "deaths_low": 6,
+        "deaths_high": 6,
+        "deaths_a": 6,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Kavataria, Kiriwina Island in Papua New Guinea’s Milne Bay Province, Trobriand Islands group.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-25,MIL-Evening Report: 30 killed, many injured in PNG ‘island of love’ tribal massacre\";\"The Guardian,2022-10-25,More than 30 dead in tribal fighting on Papua New Guinea’s ‘island of love’\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-27,PNG death toll rising, some injuries very serious\";\"Crisis Watch,2022-11-01,Papua New Guinea October 2022\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.059886,
+          -8.50788
+        ]
+      },
+      "properties": {
+        "id": 526351,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-10-24",
+        "date_end": "2022-10-24",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 1,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Luya village, Kiriwina Island in Papua New Guinea’s Milne Bay Province, Trobriand Islands group.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-25,MIL-Evening Report: 30 killed, many injured in PNG ‘island of love’ tribal massacre\";\"The Guardian,2022-10-25,More than 30 dead in tribal fighting on Papua New Guinea’s ‘island of love’\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-27,PNG death toll rising, some injuries very serious\";\"Crisis Watch,2022-11-01,Papua New Guinea October 2022\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.065549,
+          -8.532457
+        ]
+      },
+      "properties": {
+        "id": 526352,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-10-24",
+        "date_end": "2022-10-24",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 1,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Gumlababa, Kiriwina Island in Papua New Guinea’s Milne Bay Province, Trobriand Islands group.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-25,MIL-Evening Report: 30 killed, many injured in PNG ‘island of love’ tribal massacre\";\"The Guardian,2022-10-25,More than 30 dead in tribal fighting on Papua New Guinea’s ‘island of love’\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-27,PNG death toll rising, some injuries very serious\";\"Crisis Watch,2022-11-01,Papua New Guinea October 2022\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.039156,
+          -8.515742
+        ]
+      },
+      "properties": {
+        "id": 526353,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-10-24",
+        "date_end": "2022-10-24",
+        "deaths_best": 2,
+        "deaths_low": 2,
+        "deaths_high": 2,
+        "deaths_a": 2,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Wabutuma, Kiriwina Island in Papua New Guinea’s Milne Bay Province, Trobriand Islands group.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-25,MIL-Evening Report: 30 killed, many injured in PNG ‘island of love’ tribal massacre\";\"The Guardian,2022-10-25,More than 30 dead in tribal fighting on Papua New Guinea’s ‘island of love’\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-27,PNG death toll rising, some injuries very serious\";\"Crisis Watch,2022-11-01,Papua New Guinea October 2022\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06237,
+          -8.496248
+        ]
+      },
+      "properties": {
+        "id": 526354,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-10-24",
+        "date_end": "2022-10-24",
+        "deaths_best": 8,
+        "deaths_low": 8,
+        "deaths_high": 8,
+        "deaths_a": 8,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Yalaka village, Kiriwina Island in Papua New Guinea’s Milne Bay Province, Trobriand Islands group.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-25,MIL-Evening Report: 30 killed, many injured in PNG ‘island of love’ tribal massacre\";\"The Guardian,2022-10-25,More than 30 dead in tribal fighting on Papua New Guinea’s ‘island of love’\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-27,PNG death toll rising, some injuries very serious\";\"Crisis Watch,2022-11-01,Papua New Guinea October 2022\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.040047,
+          -8.516887
+        ]
+      },
+      "properties": {
+        "id": 526355,
+        "conflict_name": "Kuboma - Kulumata",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2022-10-24",
+        "date_end": "2022-10-24",
+        "deaths_best": 6,
+        "deaths_low": 6,
+        "deaths_high": 6,
+        "deaths_a": 6,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "Kuboma",
+        "side_b": "Kulumata",
+        "adm_1": "Milne Bay province",
+        "adm_2": "Kiriwina-Goodenough district",
+        "where_description": "Kiriwina Island in Papua New Guinea’s Milne Bay Province, Trobriand Islands group.",
+        "source_article": "\"ForeignAffairs.co.nz,2022-10-25,MIL-Evening Report: 30 killed, many injured in PNG ‘island of love’ tribal massacre\";\"The Guardian,2022-10-25,More than 30 dead in tribal fighting on Papua New Guinea’s ‘island of love’\";\"Radio New Zealand News,2022-10-26,PNG politician pleads for more police following island massacre\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\";\"Radio New Zealand News,2022-10-27,PNG death toll rising, some injuries very serious\";\"Crisis Watch,2022-11-01,Papua New Guinea October 2022\";\"ForeignAffairs.co.nz,2022-10-27,MIL-Evening Report: ‘Frightening to see such violence’ in tribal war on PNG’s Kiriwina island\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1925,
+          -9.464722
+        ]
+      },
+      "properties": {
+        "id": 529482,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2024-07-02",
+        "date_end": "2024-07-02",
+        "deaths_best": 1,
+        "deaths_low": 1,
+        "deaths_high": 1,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 1,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "National Capital district",
+        "adm_2": null,
+        "where_description": null,
+        "source_article": "\"Post Courier,2024-07-06,Kaipu family demands answers for death\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.912508,
+          -4.176902
+        ]
+      },
+      "properties": {
+        "id": 535242,
+        "conflict_name": "I don't care - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2024-07-18",
+        "date_end": "2024-07-18",
+        "deaths_best": 23,
+        "deaths_low": 23,
+        "deaths_high": 23,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 23,
+        "deaths_unknown": 0,
+        "side_a": "I don't care",
+        "side_b": "Civilians",
+        "adm_1": "East Sepik province",
+        "adm_2": "Angoram district",
+        "where_description": "Tambari village",
+        "source_article": "\"ForeignAffairs.co.nz,2024-07-26,MIL-OSI Europe: OCEANIA/PAPUA NEW GUINEA – Tribal war does not stop: massacres of women and children in the Kanduanum parish area\";\"ForeignAffairs.co.nz,2024-07-26,MIL-OSI Translation: OCEANIA/PAPUA NEW GUINEA – The tribal war does not stop: in the area of the parish of Kanduanum massacres of women and children\";\"Radio New Zealand News,2024-07-26,Police presence 'very limited' amid latest deadly violence in Papua New Guinea\";\"Radio New Zealand News,2024-07-26,No money to fuel up police vehicles delays response to deadly violence in PNG province\";\"Radio New Zealand News,2024-07-30,Five arrested in connection with deadly Papua New Guinea massacre\";\"ForeignAffairs.co.nz,2024-07-30,MIL-Evening Report: Five arrested in connection with deadly Papua New Guinea massacre\";\"TVWAN,2024-08-13,Angoram Massacre Main Suspect Surrenders\";\"The Guardian,2024-08-02,Slingshots and metal darts see tribal violence ‘horrors’ worsen in Papua New Guinea\";\"The Guardian,2024-07-24,At least 26 killed in Papua New Guinea village attacks, including 16 children\";\"Crisis Watch,2024-08-08,Papua New Guinea JULY 2024\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.912508,
+          -4.176902
+        ]
+      },
+      "properties": {
+        "id": 538621,
+        "conflict_name": "I don't care - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2024-07-16",
+        "date_end": "2024-07-26",
+        "deaths_best": 0,
+        "deaths_low": 0,
+        "deaths_high": 37,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 0,
+        "side_a": "I don't care",
+        "side_b": "Civilians",
+        "adm_1": "East Sepik province",
+        "adm_2": "Angoram district",
+        "where_description": "three villages near Angoram town in East Sepik\n\nvillages of Tamara, Tambari, and Angrumara in East Sepik’s Angoram district.",
+        "source_article": "\"The Guardian,2024-07-24,At least 26 killed in Papua New Guinea village attacks, including 16 children\";\"The Guardian,2024-08-02,Slingshots and metal darts see tribal violence ‘horrors’ worsen in Papua New Guinea\";\"TVWAN,2024-08-13,Angoram Massacre Main Suspect Surrenders\";\"Crisis Watch,2024-08-08,Papua New Guinea JULY 2024\";\"ForeignAffairs.co.nz,2024-07-26,MIL-OSI Europe: OCEANIA/PAPUA NEW GUINEA – Tribal war does not stop: massacres of women and children in the Kanduanum parish area\";\"ForeignAffairs.co.nz,2024-07-26,MIL-OSI Translation: OCEANIA/PAPUA NEW GUINEA – The tribal war does not stop: in the area of the parish of Kanduanum massacres of women and children\";\"Radio New Zealand News,2024-07-26,Police presence 'very limited' amid latest deadly violence in Papua New Guinea\";\"Radio New Zealand News,2024-07-26,No money to fuel up police vehicles delays response to deadly violence in PNG province\";\"Radio New Zealand News,2024-07-30,Five arrested in connection with deadly Papua New Guinea massacre\";\"ForeignAffairs.co.nz,2024-07-30,MIL-Evening Report: Five arrested in connection with deadly Papua New Guinea massacre\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87241,
+          -4.160464
+        ]
+      },
+      "properties": {
+        "id": 538622,
+        "conflict_name": "I don't care - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2024-07-17",
+        "date_end": "2024-07-17",
+        "deaths_best": 3,
+        "deaths_low": 2,
+        "deaths_high": 3,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 3,
+        "deaths_unknown": 0,
+        "side_a": "I don't care",
+        "side_b": "Civilians",
+        "adm_1": "East Sepik province",
+        "adm_2": "Angoram district",
+        "where_description": "Angrumara village",
+        "source_article": "\"The Guardian,2024-07-24,At least 26 killed in Papua New Guinea village attacks, including 16 children\";\"The Guardian,2024-08-02,Slingshots and metal darts see tribal violence ‘horrors’ worsen in Papua New Guinea\";\"TVWAN,2024-08-13,Angoram Massacre Main Suspect Surrenders\";\"Crisis Watch,2024-08-08,Papua New Guinea JULY 2024\";\"ForeignAffairs.co.nz,2024-07-26,MIL-OSI Europe: OCEANIA/PAPUA NEW GUINEA – Tribal war does not stop: massacres of women and children in the Kanduanum parish area\";\"ForeignAffairs.co.nz,2024-07-26,MIL-OSI Translation: OCEANIA/PAPUA NEW GUINEA – The tribal war does not stop: in the area of the parish of Kanduanum massacres of women and children\";\"Radio New Zealand News,2024-07-26,Police presence 'very limited' amid latest deadly violence in Papua New Guinea\";\"Radio New Zealand News,2024-07-26,No money to fuel up police vehicles delays response to deadly violence in PNG province\";\"Radio New Zealand News,2024-07-30,Five arrested in connection with deadly Papua New Guinea massacre\";\"ForeignAffairs.co.nz,2024-07-30,MIL-Evening Report: Five arrested in connection with deadly Papua New Guinea massacre\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0909,
+          -5.4641
+        ]
+      },
+      "properties": {
+        "id": 546617,
+        "conflict_name": "Piande - Sakar",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 2,
+        "violence_label": "Non-state",
+        "date_start": "2024-09-11",
+        "date_end": "2024-09-15",
+        "deaths_best": 32,
+        "deaths_low": 32,
+        "deaths_high": 32,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 0,
+        "deaths_unknown": 32,
+        "side_a": "Piande",
+        "side_b": "Sakar",
+        "adm_1": "Enga province",
+        "adm_2": "Lagaip-Porgera district",
+        "where_description": "Porgera Valley gold mine",
+        "source_article": "\"Agence France Presse,2024-09-16,Tribal shootouts near PNG gold mine kill at least 30\";\"ForeignAffairs.co.nz,2024-09-16,MIL-Evening Report: 20 dead – PNG women, girls flee tribal fighting in Porgera mine valley\";\"Radio New Zealand News,2024-09-20,Big changes sought in wake of Porgera violence\";\"Radio New Zealand News,2024-09-17,'No one gets arrested': Impunity emboldening warlords in Papua New Guinea\";\"Crisiswatch,2024-09-30,Papua New Guinea September 2024\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1925,
+          -9.464722
+        ]
+      },
+      "properties": {
+        "id": 546679,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2024-09-19",
+        "date_end": "2024-09-19",
+        "deaths_best": 2,
+        "deaths_low": 2,
+        "deaths_high": 2,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 2,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "National Capital district",
+        "adm_2": null,
+        "where_description": "9 mile Morobe Block, NCD",
+        "source_article": "\"Post-Courier,2024-09-29,Police officers investigated for police brutality in three provinces\";\"Post-Courier,2024-09-30,NCD indentifies 22 police officers in Police shooting\";\"Post-Courier,2024-09-23,Met Supt accepts responsibility of shooting by police\";\"Post-Courier,2024-09-23,Eviction at Morobe Block turns bloody\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.31494,
+          -10.55262
+        ]
+      },
+      "properties": {
+        "id": 546680,
+        "conflict_name": "Government of Papua New Guinea - Civilians",
+        "country": "Papua New Guinea",
+        "country_id": 910,
+        "region": "Asia",
+        "type_of_violence": 3,
+        "violence_label": "One-sided",
+        "date_start": "2024-09-16",
+        "date_end": "2024-09-16",
+        "deaths_best": 2,
+        "deaths_low": 2,
+        "deaths_high": 2,
+        "deaths_a": 0,
+        "deaths_b": 0,
+        "deaths_civilians": 2,
+        "deaths_unknown": 0,
+        "side_a": "Government of Papua New Guinea",
+        "side_b": "Civilians",
+        "adm_1": "Milne Bay province",
+        "adm_2": null,
+        "where_description": "Milne Bay",
+        "source_article": "\"Post-Courier,2024-10-10,Family of slain man petitions police\";\"Post-Courier,2024-09-29,Police officers investigated for police brutality in three provinces\""
+      }
+    }
+  ]
+}

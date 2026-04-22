@@ -1,0 +1,11 @@
+praw>=7.7
+requests>=2.31
+textblob>=0.18
+transformers>=4.41
+torch>=2.3
+spacy>=3.7
+networkx>=3.3
+python-louvain>=0.16
+geopy>=2.4
+folium>=0.16
+emoji>=2.12

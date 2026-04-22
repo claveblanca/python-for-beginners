@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porgera Mine",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.149,
+          -5.463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ok Tedi Mine",
+        "commodity": "Copper-Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.225,
+          -5.269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lihir Mine",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.642,
+          -3.125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidden Valley",
+        "commodity": "Gold-Silver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.708,
+          -6.292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramu Mine",
+        "commodity": "Nickel-Cobalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.204,
+          -5.571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simberi Mine",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.998,
+          -2.607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tolukuma Mine",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.255,
+          -9.149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinivit Mine",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.063,
+          -4.658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wafi-Golpu",
+        "commodity": "Copper-Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.676,
+          -6.217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frieda River",
+        "commodity": "Copper-Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.731,
+          -4.685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kainantu Mine",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.872,
+          -6.314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodlark Project",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.778,
+          -9.218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Kare",
+        "commodity": "Gold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.167,
+          -5.383
+        ]
+      }
+    }
+  ]
+}

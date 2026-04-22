@@ -1,0 +1,4 @@
+# This file is only needed if you re-run extract_roads.py.
+# pyrobuf (a pyrosm build dep) uses setuptools.dist.Distribution.dry_run
+# which was removed in setuptools >= 81.
+setuptools>=70,<81
