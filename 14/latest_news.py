@@ -116,6 +116,7 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=None, help="Max articles to show.")
     parser.add_argument("--json", action="store_true", help="Output as JSON lines.")
     parser.add_argument("--debug", action="store_true", help="Print diagnostic info to stderr.")
+    parser.add_argument("--output", "-o", metavar="FILE", default=None, help="Write output to FILE instead of stdout.")
     args = parser.parse_args()
 
     try:
@@ -134,14 +135,19 @@ def main() -> None:
     if args.limit:
         articles = articles[: args.limit]
 
-    if args.json:
-        for article in articles:
-            print(json.dumps(article, ensure_ascii=False))
-        return
-
-    for i, article in enumerate(articles, 1):
-        print(f"{i:>3}. {article['title']}")
-        print(f"     {article['url']}")
+    out = open(args.output, "w", encoding="utf-8") if args.output else sys.stdout
+    try:
+        if args.json:
+            for article in articles:
+                print(json.dumps(article, ensure_ascii=False), file=out)
+        else:
+            for i, article in enumerate(articles, 1):
+                print(f"{i:>3}. {article['title']}", file=out)
+                print(f"     {article['url']}", file=out)
+    finally:
+        if args.output:
+            out.close()
+            print(f"Wrote {len(articles)} article(s) to {args.output}", file=sys.stderr)
 
 
 if __name__ == "__main__":

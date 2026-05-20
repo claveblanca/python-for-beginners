@@ -4,36 +4,15 @@ Install dependencies first:
 
 ```bash
 pip install -r requirements.txt
-# optional: better TLS impersonation to avoid 403s
-pip install curl-cffi
 ```
 
 Run the script:
 
 ```bash
-# fetch latest-news listing (single page, prints to stdout)
-python financial_news.py
-
-# fetch stock-market news via sitemap (default category)
-python financial_news.py --category stock-market-news
-
-# use HTML pagination instead of sitemap
-python financial_news.py --category stock-market-news --use-listing-pages
-
-# provide a custom sitemap URL
-python financial_news.py --sitemap-url https://www.investing.com/news_stock_market_sitemap.xml
-
 # limit to the first 5 articles only
-python financial_news.py --limit 5
+python financial_news.py --limit 5 -o output.txt
 
-# add a 1.5 s delay between article fetches (be polite)
-python financial_news.py --delay 1.5
-
-# output one JSON object per line (pipe-friendly)
-python financial_news.py --limit 5 --json
-
-# combine options: 10 stock-market articles as JSON with a 2 s delay
-python financial_news.py --category stock-market-news --limit 10 --delay 2 --json
+python news_sentiment.py -i output.txt -o results.json
 ```
 
 ## sources of news
