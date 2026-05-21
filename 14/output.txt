@@ -1,10 +1,40 @@
-  1. BofA names top chip stocks as server CPU TAM seen reaching $125bn by 2030
-     https://www.investing.com/news/stock-market-news/bofa-names-top-chip-stocks-as-server-cpu-tam-seen-reaching-125bn-by-2030-4700905
-  2. Can Nvidia’s results shift market focus back to AI?
-     https://www.investing.com/news/stock-market-news/can-nvidias-results-shift-market-focus-back-to-ai-4700924
-  3. Trump’s comments on Iran war; Nvidia earnings in focus - what’s moving markets
-     https://www.investing.com/news/economy-news/trumps-comments-on-iran-war-nvidia-earnings-in-focus--whats-moving-markets-4700374
-  4. ASML gains after UBS calls it Europe’s top semiconductor pick
-     https://www.investing.com/news/stock-market-news/asml-gains-after-ubs-calls-it-europes-top-semiconductor-pick-4700439
-  5. Stocks rise as Nvidia gains pre-earnings, Trump says Iran talks in ’final stages’
-     https://www.investing.com/news/stock-market-news/wall-st-futures-steady-ahead-of-nvidia-results-inflation-concerns-in-focus-4700064
+  1. Nvidia valuation “stands out” despite record semiconductor revenue growth
+     https://www.investing.com/news/earnings/nvidia-earnings-guidance-beat-expectations-stock-slips-after-hours-4702168
+  2. 10 Wall Street analysts react to Nvidia’s blockbuster earnings
+     https://www.investing.com/news/stock-market-news/nvidia-fq1-earnings-10-analysts-share-key-takeaways-4703430
+  3. Nvidia’s blockbuster earnings; SpaceX files for IPO - what’s moving markets
+     https://www.investing.com/news/economy-news/nvidias-blockbuster-earnings-spacex-files-for-ipo--whats-moving-markets-4703141
+  4. SpaceX officially files for Nasdaq IPO
+     https://www.investing.com/news/stock-market-news/spacex-officially-files-for-nasdaq-ipo-4702487
+  5. Wall St futures edge lower as investors weigh Iran peace demands, Nvidia earnings
+     https://www.investing.com/news/stock-market-news/wall-st-futures-slip-after-nvidia-earnings-beat-walmart-results-on-tap-4702843
+  6. Iran’s Supreme Leader says enriched uranium must stay in country - Reuters
+     https://www.investing.com/news/economy-news/iran-says-reviewing-latest-us-peace-proposal-as-trump-holds-on-military-action-4702944
+  7. Oil prices inch up as Trump threatens strikes against Iran if peace talks fail
+     https://www.investing.com/news/commodities-news/oil-prices-rise-as-trump-flags-potential-strikes-against-iran-if-peace-talks-fail-4702842
+  8. Gold prices waver amid elevated yields, steady dollar
+     https://www.investing.com/news/commodities-news/gold-prices-rise-further-on-iran-peace-hopes-4702915
+  9. Walmart falls on guidance despite beating revenue estimates
+     https://www.investing.com/news/earnings/walmart-falls-on-guidance-despite-beating-revenue-estimates-4703713
+ 10. Quantum computing shares jump on report U.S. to award $2bn to firms in the sector
+     https://www.investing.com/news/stock-market-news/quantum-computing-shares-jump-on-report-us-to-award-2bn-to-firms-in-the-sector-4703548
+ 11. Anthropic consulting JV acquires Fractional AI - Bloomberg
+     https://www.investing.com/news/stock-market-news/anthropic-consulting-jv-acquires-fractional-ai--bloomberg-93CH-4703968
+ 12. Hedge funds are taking profit after mouthwatering chip stocks rally
+     https://www.investing.com/news/stock-market-news/hedge-funds-are-taking-profit-after-mouthwatering-chip-stocks-rally-4703655
+ 13. Dollar steady near six-week peak amid Iran deal optimism
+     https://www.investing.com/news/forex-news/dollar-steady-after-hawkish-fed-minutes-aussie-slides-on-soft-jobs-data-4702926
+ 14. NIO stock jumps as Q1 earnings, revenue outlook trump estimates
+     https://www.investing.com/news/earnings/nio-stock-jumps-as-q1-earnings-revenue-outlook-trump-estimates-4703381
+ 15. Nvidia shares hug flatline premarket; Intuit slumps, Destiny Tech100 rises
+     https://www.investing.com/news/stock-market-news/nvidia-shares-hug-flatline-premarket-intuit-slumps-destiny-tech100-rises-4703959
+ 16. Bitcoin rises near $78k with Nvidia earnings, Iran peace prospects in focus
+     https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-78k-with-nvidia-earnings-iran-peace-prospects-in-focus-4703052
+ 17. Nvidia CPU comments read positively for this chip stock: analyst
+     https://www.investing.com/news/stock-market-news/nvidia-cpu-comments-read-positively-for-this-chip-stock-analyst-4703817
+ 18. US to invest in quantum computing firms in exchange for stakes
+     https://www.investing.com/news/stock-market-news/us-to-award-2-billion-to-quantum-computing-firms-take-equity-stakes-wsj-reports-4703495
+ 19. Stellantis stock falls 5%: €60B plan fails to spark investor confidence
+     https://www.investing.com/news/stock-market-news/stellantis-stock-falls-5-60b-plan-fails-to-spark-investor-confidence-4703851
+ 20. Endava tumbles 21% as revenue misses analyst estimates, guidance disappoints
+     https://www.investing.com/news/earnings/endava-tumbles-21-as-revenue-misses-analyst-estimates-guidance-disappoints-4703812

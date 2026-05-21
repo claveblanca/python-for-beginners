@@ -13,6 +13,9 @@ Run the script:
 python financial_news.py --limit 5 -o output.txt
 
 python news_sentiment.py -i output.txt -o results.json
+
+streamlit run dashboard.py
+
 ```
 
 ## sources of news
