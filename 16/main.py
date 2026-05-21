@@ -1,4 +1,5 @@
 import base64
+import json
 import streamlit as st
 import pydeck as pdk
 import geopandas as gpd
@@ -39,6 +40,9 @@ for feat, color, label, rname in zip(
     feat["properties"]["color"] = color
     feat["properties"]["highway_label"] = label
     feat["properties"]["road_name"] = rname
+    feat["properties"]["tooltip_html"] = (
+        f"<b>{rname}</b><br/>Type: {label}"
+    )
 
 roads_layer = pdk.Layer(
     "GeoJsonLayer",
@@ -67,9 +71,11 @@ mines_data = [
     {
         "lon": geom.x,
         "lat": geom.y,
-        "name": row.get("name", "Unknown"),
-        "commodity": row.get("commodity", "Unknown"),
         "icon": MINE_ICON,
+        "tooltip_html": (
+            f"⛏️ <b>{row.get('name', 'Unknown')}</b><br/>"
+            f"Commodity: {row.get('commodity', 'Unknown')}"
+        ),
     }
     for geom, row in zip(
         mines_gdf.geometry,
@@ -86,6 +92,38 @@ icon_layer = pdk.Layer(
     size_scale=10,
     size_min_pixels=24,
     pickable=True,
+)
+
+# ── Load & prepare gold localities (mindat) ───────────────────────────────────
+with open("mindat_data/v1_localities.json", encoding="utf-8") as _f:
+    _mindat = json.load(_f)
+
+gold_data = [
+    {
+        "lon": loc["longitude"],
+        "lat": loc["latitude"],
+        "tooltip_html": (
+            f"🟡 <b>{loc.get('txt', 'Unknown')}</b><br/>"
+            f"Elements: {loc.get('elements', '').strip('-').replace('-', ', ')}<br/>"
+            + (f"{loc['description_short'].strip()[:200]}" if loc.get("description_short") else "")
+        ),
+    }
+    for loc in _mindat.get("results", [])
+    if loc.get("latitude") and loc.get("longitude")  # skip 0,0 country-level entries
+]
+
+gold_layer = pdk.Layer(
+    "ScatterplotLayer",
+    data=gold_data,
+    get_position=["lon", "lat"],
+    get_fill_color=[255, 215, 0, 220],   # gold, slightly transparent
+    get_radius=4000,
+    radius_min_pixels=5,
+    radius_max_pixels=18,
+    pickable=True,
+    stroked=True,
+    get_line_color=[180, 140, 0, 255],   # darker gold outline
+    line_width_min_pixels=1,
 )
 
 # ── Load & prepare conflicts ──────────────────────────────────────────────────
@@ -107,17 +145,19 @@ conflicts_data = [
     {
         "lon": geom.x,
         "lat": geom.y,
-        "conflict_name":    row.get("conflict_name", "Unknown conflict"),
-        "side_a":           row.get("side_a", "—"),
-        "side_b":           row.get("side_b", "—"),
         "deaths_best":      int(row.get("deaths_best") or 0),
         "deaths_civilians": int(row.get("deaths_civilians") or 0),
-        "violence_label":   row.get("violence_label")
-                            or VIOLENCE_LABELS.get(row.get("type_of_violence"), "Unknown"),
-        "date_start":       str(row.get("date_start", ""))[:10],
-        "date_end":         str(row.get("date_end", ""))[:10],
-        "adm_1":            row.get("adm_1", ""),
         "icon":             SKULL_ICON,
+        "tooltip_html": (
+            f"☠️ <b>{row.get('conflict_name', 'Unknown conflict')}</b><br/>"
+            f"Type: {row.get('violence_label') or VIOLENCE_LABELS.get(row.get('type_of_violence'), 'Unknown')}<br/>"
+            f"Side A: {row.get('side_a', '—')}<br/>"
+            f"Side B: {row.get('side_b', '—')}<br/>"
+            f"Deaths: {int(row.get('deaths_best') or 0):,} "
+            f"(civilians: {int(row.get('deaths_civilians') or 0):,})<br/>"
+            f"Date: {str(row.get('date_start', ''))[:10]} → {str(row.get('date_end', ''))[:10]}<br/>"
+            f"Location: {row.get('adm_1', '')}"
+        ),
     }
     for geom, row in zip(
         conflicts_gdf.geometry,
@@ -139,28 +179,15 @@ conflicts_layer = pdk.Layer(
 )
 
 # ── Map ───────────────────────────────────────────────────────────────────────
-view = pdk.ViewState(latitude=-5.5, longitude=143.0, zoom=10, pitch=0)
+view = pdk.ViewState(latitude=-6.3, longitude=144.5, zoom=6, pitch=0)
 
 st.pydeck_chart(
     pdk.Deck(
-        layers=[roads_layer, icon_layer, conflicts_layer],
+        layers=[roads_layer, conflicts_layer, icon_layer, gold_layer],
         initial_view_state=view,
         map_style="https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
         tooltip={
-            "html": (
-                # Roads
-                "<b>{road_name}</b><br/>Type: {highway_label}<br/>"
-                # Mines
-                "<b>{name}</b><br/>Commodity: {commodity}<br/>"
-                # Conflicts
-                "☠️ <b>{conflict_name}</b><br/>"
-                "Type: {violence_label}<br/>"
-                "Side A: {side_a}<br/>"
-                "Side B: {side_b}<br/>"
-                "Deaths: {deaths_best} (civilians: {deaths_civilians})<br/>"
-                "Date: {date_start} → {date_end}<br/>"
-                "Location: {adm_1}"
-            ),
+            "html": "{tooltip_html}",
             "style": {
                 "backgroundColor": "#1e1e2e",
                 "color": "white",
@@ -186,14 +213,19 @@ with st.sidebar:
 
     st.divider()
     st.header("Layers")
+    st.markdown("🟡 &nbsp; Gold localities (mindat)", unsafe_allow_html=True)
     st.markdown("⛏️ &nbsp; Mining sites", unsafe_allow_html=True)
     st.markdown("☠️ &nbsp; Conflict events", unsafe_allow_html=True)
 
     st.divider()
+    st.header("Gold localities")
+    st.metric("Mindat sites (Au)", len(gold_data))
+
+    st.divider()
     st.header("Conflicts summary")
-    total_events  = len(conflicts_data)
-    total_deaths  = sum(c["deaths_best"] for c in conflicts_data)
-    total_civs    = sum(c["deaths_civilians"] for c in conflicts_data)
+    total_events = len(conflicts_data)
+    total_deaths = sum(c["deaths_best"] for c in conflicts_data)
+    total_civs   = sum(c["deaths_civilians"] for c in conflicts_data)
     st.metric("Total events",   total_events)
     st.metric("Total deaths",   f"{total_deaths:,}")
     st.metric("Civilian deaths", f"{total_civs:,}")
