@@ -37,6 +37,27 @@ ALL_PRODUCTS = df["product"].unique().tolist()
 ALL_REGIONS  = df["region"].unique().tolist()
 ALL_MONTHS   = sorted(df["month"].unique().tolist())
 
+# ── Helpers ───────────────────────────────────────────────────────────────────
+
+def _card() -> dict:
+    return {
+        "backgroundColor": "white",
+        "borderRadius": "8px",
+        "padding": "16px",
+        "boxShadow": "0 1px 4px rgba(0,0,0,.1)",
+    }
+
+
+def kpi_card(label: str, value: str) -> html.Div:
+    return html.Div(
+        style={**_card(), "flex": "1", "textAlign": "center"},
+        children=[
+            html.P(label, style={"color": "#6c757d", "margin": "0 0 4px", "fontSize": "14px"}),
+            html.H2(value, style={"margin": 0, "color": "#212529"}),
+        ],
+    )
+
+
 # ── App & layout ──────────────────────────────────────────────────────────────
 
 app = Dash(__name__, title="Sales Dashboard")
@@ -138,27 +159,6 @@ app.layout = html.Div(
         ], style=_card()),
     ],
 )
-
-
-# ── Helper ────────────────────────────────────────────────────────────────────
-
-def _card() -> dict:
-    return {
-        "backgroundColor": "white",
-        "borderRadius": "8px",
-        "padding": "16px",
-        "boxShadow": "0 1px 4px rgba(0,0,0,.1)",
-    }
-
-
-def kpi_card(label: str, value: str) -> html.Div:
-    return html.Div(
-        style={**_card(), "flex": "1", "textAlign": "center"},
-        children=[
-            html.P(label, style={"color": "#6c757d", "margin": "0 0 4px", "fontSize": "14px"}),
-            html.H2(value, style={"margin": 0, "color": "#212529"}),
-        ],
-    )
 
 
 # ── Callback ──────────────────────────────────────────────────────────────────
