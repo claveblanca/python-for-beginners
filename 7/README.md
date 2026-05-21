@@ -59,3 +59,10 @@ rm -rf _output/
 - Parsing structured text (log files)
 - `json.dump()` / `json.load()` — CSV-to-JSON conversion
 - Word counting from a text file
+
+## Technologies Used
+
+- **Python stdlib** — `pathlib`, `os`, `shutil` for file system operations
+- **`csv`** — reading and writing CSV files
+- **`json`** — serialising and deserialising JSON data
+- No external libraries required

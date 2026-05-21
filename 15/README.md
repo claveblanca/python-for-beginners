@@ -109,3 +109,9 @@ Docs: https://docs.kraken.com/api/docs/rest-api/get-ticker-information
 | Threading | Single-threaded | Background fetcher + Flask |
 | Dependencies | Stdlib only | Flask required |
 | Best for | Quick checks, scripting | Live monitoring, real-time display |
+
+## Technologies Used
+
+- **Flask** — live web dashboard for real-time ticker display
+- **sqlite3** — local time-series storage for price history
+- **Kraken public REST API** — cryptocurrency ticker data source (`api.kraken.com`)

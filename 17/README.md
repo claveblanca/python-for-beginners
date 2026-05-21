@@ -339,3 +339,15 @@ for loc, count in freq['GPE'].most_common(10):
 - Do not publish raw posts with usernames attached without editorial necessity.
 - Reddit's API Terms of Service prohibit using collected data to train commercial AI models.
 - Store collected data with access controls; do not leave `socmint.db` world-readable.
+
+## Technologies Used
+
+- **PRAW** — Reddit API client (OAuth authentication, post/comment collection)
+- **TextBlob** — lightweight NLP for basic sentiment scoring
+- **Hugging Face Transformers** — RoBERTa-based sentiment analysis (`cardiffnlp/twitter-roberta`)
+- **spaCy** — Named Entity Recognition (`en_core_web_sm`)
+- **NetworkX** — social network graph construction and analysis
+- **folium** — interactive Leaflet.js maps from Python
+- **geopy / Nominatim** — geocoding place names via OpenStreetMap
+- **sqlite3** — pipeline data storage (`socmint.db`)
+- **Reddit API** — primary social media data source

@@ -146,3 +146,10 @@ abort(404, description="Not found")
 # FastAPI
 raise HTTPException(status_code=404, detail="Not found")
 ```
+
+## Technologies Used
+
+- **Flask** — lightweight Python web framework for the REST API
+- **FastAPI** — modern async REST framework with automatic OpenAPI docs
+- **Pydantic** — data validation and serialisation (FastAPI models)
+- **uvicorn** — ASGI server used to run the FastAPI app

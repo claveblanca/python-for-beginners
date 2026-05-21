@@ -55,3 +55,11 @@ python parsing_json.py            # no internet needed
 - Processing lists of records (sum, max, filter)
 - Modifying JSON and saving back
 - `json.JSONDecodeError` — handling broken JSON
+
+## Technologies Used
+
+- **`requests`** — HTTP client for calling REST APIs
+- **`json`** — parsing and building JSON payloads
+- **httpbin.org** — public HTTP testing service
+- **randomuser.me** — public random-user data API
+- **GitHub REST API** — real-world API example

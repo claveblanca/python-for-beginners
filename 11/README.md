@@ -137,3 +137,11 @@ fig.add_trace(go.Bar(...),     row=1, col=2)
 fig.show()          # opens browser
 fig.write_html("out.html")   # saves file
 ```
+
+## Technologies Used
+
+- **Streamlit** — interactive data app framework (zero-boilerplate web UI)
+- **Plotly** — interactive charts (Express + Graph Objects)
+- **Dash** — reactive single-page dashboards built on Plotly
+- **pandas** — data manipulation and analysis
+- **numpy** — numerical computing

@@ -83,3 +83,12 @@ pip install requests rich python-dateutil
 - `twine upload` — publish to PyPI
 - `pyproject.toml` — the modern alternative (PEP 621)
 - Typical project layout
+
+## Technologies Used
+
+- **pip** — Python package installer
+- **venv** — built-in virtual environment manager
+- **setuptools** — packaging and distribution
+- **PyPI** — Python Package Index (queried via its JSON API)
+- **`importlib`** / **`importlib.metadata`** — dynamic imports and package introspection
+- Demo libraries: **`requests`**, **`rich`**, **`python-dateutil`**

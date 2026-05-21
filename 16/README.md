@@ -21,3 +21,13 @@ streamlit run main.py
 
 
 
+
+## Technologies Used
+
+- **Streamlit** — map dashboard UI
+- **pydeck** — 3D geospatial visualisation (WebGL-based maps)
+- **geopandas** — geospatial data manipulation and GeoJSON handling
+- **pyrosm** — OpenStreetMap PBF file parsing for road extraction
+- **openmindat** — client for the mindat.org mineral locality database
+- **UCDP GED API** — Uppsala Conflict Data Program georeferenced event data
+- **Geofabrik** — OpenStreetMap regional PBF data downloads

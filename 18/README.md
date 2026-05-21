@@ -204,3 +204,10 @@ For a permanent URL, deploy to **Hugging Face Spaces** (free):
 2. Choose the Gradio SDK
 3. Upload `main.py`, `model.py`, `chat.py`, `ui.py`, and `requirements.txt`
 4. The Space builds automatically and gives you a permanent public URL
+
+## Technologies Used
+
+- **Hugging Face Transformers** — DialoGPT text-generation pipeline (`microsoft/DialoGPT-medium`)
+- **Hugging Face Hub** — model hosting and automatic download/cache
+- **PyTorch** — deep learning backend for the language model
+- **Gradio** — `ChatInterface` web UI served locally (optionally shareable via HF Spaces)
